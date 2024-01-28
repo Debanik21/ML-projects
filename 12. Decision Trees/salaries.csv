@@ -1,0 +1,17 @@
+company,job,degree,salary_more_than_100k
+amazon,project manager,bachelors,1
+amazon,project manager,masters,1
+amazon,sales executive,bachelors,0
+amazon,sales executive,masters,0
+amazon,programmer,bachelors,0
+amazon,programmer,masters,1
+jp morgan,sales executive,masters,0
+jp morgan,programmer,bachelors,0
+jp morgan,project manager,bachelors,0
+jp morgan,project manager,masters,1
+microsoft,sales executive,bachelors,1
+microsoft,sales executive,masters,1
+microsoft,project manager,bachelors,1
+microsoft,project manager,masters,1
+microsoft,programmer,bachelors,1
+microsoft,programmer,masters,1
